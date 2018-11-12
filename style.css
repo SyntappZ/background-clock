@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+    background-size: cover;
+    text-align:center;
+    font-family: 'Roboto Mono', monospace;
+
+}
+h1{
+    color:#fff;
+    text-transform: capitalize;
+    margin-top:100px;
+}
+.dateBox{
+
+    width:900px;
+    height:200px;
+    margin:200px auto;
+    background-color:rgba(0, 0, 0, 0.281);
+    border-radius:40px;
+    line-height: 100px;
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 60px;
+    color:#fff;
+}
