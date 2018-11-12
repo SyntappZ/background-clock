@@ -70,7 +70,7 @@ if(hours > 12 && hours < 18){
     document.body.style.backgroundImage = "url('img/midday.jpg')";
     dCycle.innerHTML = "it's afternoon!";
 }
-if(hours > 18 && hours < 0){
+else{
     document.body.style.backgroundImage = "url('img/dusk.jpg')";
     dCycle.innerHTML = "it's dusk";
 }
